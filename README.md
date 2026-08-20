@@ -10,9 +10,9 @@
 
 <br>
 
-> I work between disciplines — where hardware meets software, where systems meet user. From soldering motherboards to deploying production stacks. I build slowly because the details matter, and test obsessively because users deserve it.
+> 
 >
-> **[paulocarrasco.dev](https://paulocarrasco.dev)** → the long version, with a terminal that live-updates from this exact profile.
+> **[paulocarrasco.dev](https://paulocarrasco.dev)** 
 
 <br>
 
