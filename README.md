@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,100:1D232E&height=210&section=header&text=PAULO%20CARRASCO&fontSize=54&fontColor=D4A574&fontAlignY=36&animation=fadeIn&desc=Independent%20IT%20and%20Full%20Stack%20Practice%20%C2%B7%20Barcelona&descAlignY=58&descSize=18&descColor=E6E8EC" width="100%"/>
-
 <a href="https://paulocarrasco.dev">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=D4A574&center=true&vCenter=true&width=640&lines=Building+between+hardware+and+software;Independent+IT+and+Full+Stack+practice;Barcelona%2C+Spain+%C2%B7+since+2024;Everything+below+updates+itself." alt="Typing SVG" />
+  <img src="https://paulocarrasco.dev/api/cards.php?card=header" width="100%" alt="Paulo Carrasco"/>
 </a>
 
 </div>
