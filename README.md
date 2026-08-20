@@ -54,8 +54,6 @@
 
 <div align="center">
 
-### ⌁ Contribution graph, eaten by a snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P542-X/P542-X/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P542-X/P542-X/output/github-contribution-grid-snake.svg" />
