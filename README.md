@@ -62,8 +62,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/P542-X/P542-X/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<sub>Se regenera solo cada día vía GitHub Actions — ver <code>.github/workflows/snake.yml</code>.</sub>
-
 </div>
 
 <br>
