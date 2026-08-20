@@ -57,8 +57,6 @@
 
 <div align="center">
 
-### ⌁ Get in touch
-
 <a href="mailto:info@paulocarrasco.dev">
   <img src="https://paulocarrasco.dev/api/cards.php?card=btn&text=Email" alt="Email"/>
 </a>
@@ -68,7 +66,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=P542-X&color=D4A574&style=flat&label=profile+views" alt="Profile views"/>
+<img src="https://paulocarrasco.dev/api/cards.php?card=views" alt="Profile views"/>
 
 </div>
 
