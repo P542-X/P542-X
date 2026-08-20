@@ -61,11 +61,11 @@
 
 ### ⌁ Get in touch
 
-<a href="mailto:info@paulocarrasco.dev">
-  <img src="https://img.shields.io/badge/Email-D4A574?style=for-the-badge&logo=maildotru&logoColor=0B0E14" alt="Email"/>
+a href="mailto:info@paulocarrasco.dev">
+  <img src="https://paulocarrasco.dev/api/cards.php?card=btn&text=Email" alt="Email"/>
 </a>
 <a href="https://paulocarrasco.dev">
-  <img src="https://img.shields.io/badge/Portfolio-D4A574?style=for-the-badge&logo=vercel&logoColor=0B0E14" alt="Portfolio"/>
+  <img src="https://paulocarrasco.dev/api/cards.php?card=btn&text=Portfolio&style=solid" alt="Portfolio"/>
 </a>
 
 <br><br>
