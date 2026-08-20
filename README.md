@@ -9,11 +9,7 @@
 </div>
 
 <br>
-
 > 
->
-> **[paulocarrasco.dev](https://paulocarrasco.dev)** 
-
 <br>
 
 <div align="center">
@@ -36,8 +32,6 @@
 <br>
 
 <div align="center">
-
-<sub>100% propio — estas tarjetas las genera mi propio servidor, no un servicio de terceros. Se actualizan solas.</sub>
 
 <br><br>
 
@@ -73,9 +67,6 @@
 </a>
 <a href="https://paulocarrasco.dev">
   <img src="https://img.shields.io/badge/Portfolio-D4A574?style=for-the-badge&logo=vercel&logoColor=0B0E14" alt="Portfolio"/>
-</a>
-<a href="https://github.com/P542-X">
-  <img src="https://img.shields.io/badge/GitHub-D4A574?style=for-the-badge&logo=github&logoColor=0B0E14" alt="GitHub"/>
 </a>
 
 <br><br>
