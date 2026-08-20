@@ -61,7 +61,7 @@
 
 ### ⌁ Get in touch
 
-a href="mailto:info@paulocarrasco.dev">
+<a href="mailto:info@paulocarrasco.dev">
   <img src="https://paulocarrasco.dev/api/cards.php?card=btn&text=Email" alt="Email"/>
 </a>
 <a href="https://paulocarrasco.dev">
