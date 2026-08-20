@@ -72,4 +72,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D232E,100:0B0E14&height=100&section=footer" width="100%"/>
+<img src="https://paulocarrasco.dev/api/cards.php?card=footer" width="100%" alt=""/>
