@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### ⌁ Stack
+
 
 <img src="https://img.shields.io/badge/Linux-0B0E14?style=for-the-badge&logo=linux&logoColor=D4A574" alt="Linux"/>
 <img src="https://img.shields.io/badge/Nginx-0B0E14?style=for-the-badge&logo=nginx&logoColor=D4A574" alt="Nginx"/>
