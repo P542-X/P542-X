@@ -13,16 +13,16 @@
 
 
 
-<img src="https://img.shields.io/badge/Linux-0B0E14?style=for-the-badge&logo=linux&logoColor=D4A574" alt="Linux"/>
-<img src="https://img.shields.io/badge/Nginx-0B0E14?style=for-the-badge&logo=nginx&logoColor=D4A574" alt="Nginx"/>
-<img src="https://img.shields.io/badge/PHP-0B0E14?style=for-the-badge&logo=php&logoColor=D4A574" alt="PHP"/>
-<img src="https://img.shields.io/badge/Python-0B0E14?style=for-the-badge&logo=python&logoColor=D4A574" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-0B0E14?style=for-the-badge&logo=javascript&logoColor=D4A574" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Linux-0B0E14?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/Nginx-0B0E14?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx"/>
+<img src="https://img.shields.io/badge/PHP-0B0E14?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+<img src="https://img.shields.io/badge/Python-0B0E14?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-0B0E14?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 <br>
-<img src="https://img.shields.io/badge/HTML5-0B0E14?style=for-the-badge&logo=html5&logoColor=D4A574" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-0B0E14?style=for-the-badge&logo=css3&logoColor=D4A574" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Git-0B0E14?style=for-the-badge&logo=git&logoColor=D4A574" alt="Git"/>
-<img src="https://img.shields.io/badge/Node.js-0B0E14?style=for-the-badge&logo=nodedotjs&logoColor=D4A574" alt="Node.js"/>
+<img src="https://img.shields.io/badge/HTML5-0B0E14?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-0B0E14?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Git-0B0E14?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/Node.js-0B0E14?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
 
 </div>
 
